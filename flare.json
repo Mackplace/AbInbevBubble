@@ -1,0 +1,811 @@
+{
+   "name":"variants",
+   "children":[
+      {
+         "name":"ATR",
+         "children":[
+            {
+               "name":"_",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"HALO ATR",
+                           "size":1
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"ATR",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"ATR Director",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Cashflow",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Seguimiento CWC terminar México y extender a los demás países",
+                           "size":4.165
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Contabilidad",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Manual Journal Entries PA EC",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Intercompañias",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Intercompany Account Reconciliation",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Normatividad",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Automation - Estados Financieros",
+                           "size":9.5795
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Reconciliación de Cuentas",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Reconciliación de cuentas COPEC",
+                           "size":20.825
+                        },
+                        {
+                           "name":"Reconciliación de cuentas México",
+                           "size":20.825
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"ZBB",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Consolidación de información de LE",
+                           "size":1.1662
+                        },
+                         {
+                           "name":"Base ZBB",
+                           "size":13.8278
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"COM",
+         "children":[
+            {
+               "name":"COM",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"OPERATIONS CENTER LEAD",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"CT&IM",
+         "children":[
+            {
+               "name":"Master Data Back Office",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Posteo manual Proveedores COPEC",
+                           "size":4.998
+                        },
+                        {
+                           "name":"Posteo manual Activos Fijos COPEC - BAO Master Data",
+                           "size":3.7485
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Master Data Commercial",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Validaciones RUCs Ecuador",
+                           "size":8.33
+                        },
+                        {
+                           "name":"Creación de clientes PEC",
+                           "size":13.328
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Master Data Logistics",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Alimentar base de datos MRP - Proyecto APO",
+                           "size":8.33
+                        },
+                        {
+                           "name":"Posteo repuestos COPEC",
+                           "size":4.165
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"ENG",
+         "children":[
+            {
+               "name":"Consumer",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Carga masiva de registros reclamos a SAP CRM",
+                           "size":1.666
+                        },
+                        {
+                           "name":"Automatización de comunicaciones y reportes de auditoría",
+                           "size":3.7485
+                        },
+                        {
+                           "name":"Atención de clientes en primer nivel via chatbot",
+                           "size":8.48425926
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Customer",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Atención de primer nivel a clientes",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Internal",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Revisión de estructura EC",
+                           "size":33.32
+                        },
+                        {
+                           "name":"Registro automático de tickets atendidos",
+                           "size":1.666
+                        },
+                        {
+                           "name":"Compensaciones - Validación previa de fondos suficientes para compensar solicitud y homologar 2 scripts actuales en una macro",
+                           "size":4.165
+                        },
+                        {
+                           "name":"Automatización en altas y bajas de comodatos, posterior a validación",
+                           "size":14.7441
+                        },
+                        {
+                           "name":"Revisión de estructura EC durante Marzo",
+                           "size":8.33
+                        },
+                        {
+                           "name":"Ticketing Analysis EC",
+                           "size":24.99
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Supplier",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Automatización de generación de estados de cuentas mediante #proveedor/ NIT",
+                           "size":2.1658
+                        },
+                        {
+                           "name":"Automatizacion en consulta de fechas de pago para facturas de proveedores",
+                           "size":0.833
+                        },
+                        {
+                           "name":"Registro automático de correos contestados y llenado de bitácora",
+                           "size":2.0825
+                        },
+                        {
+                           "name":"Automatización en consultas relacionadas a integraciones de pago",
+                           "size":0.833
+                        },
+                        {
+                           "name":"Automatización en el proceso de distribución de tickets(EVA 2.0)",
+                           "size":8.33
+                        },
+                        {
+                           "name":"Reportes de performance telefonía y de seguimiento de tickets",
+                           "size":1
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"LEG",
+         "children":[
+            {
+               "name":"Contratos",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Solicitudes de procurement Legal",
+                           "size":5.9143
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"LOG",
+         "children":[
+            {
+               "name":"AGS",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"AGS LOG",
+                           "size":1
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Comercio Exterior",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Complemento comercio exterior",
+                           "size":16.66
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Control Operacional",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Reporte de transito",
+                           "size":4.165
+                        },
+                        {
+                           "name":"Portal autogestión retorno de envase",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Exportaciones",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Fletes marítimos de exportación",
+                           "size":6.2475
+                        },
+                        {
+                           "name":"Reportes(Bases)",
+                           "size":3.332
+                        },
+                        {
+                           "name":"Order Taking",
+                           "size":0.833
+                        },
+                        {
+                           "name":"MOQs",
+                           "size":0.833
+                        },
+                        {
+                           "name":"Transport Planning",
+                           "size":0.4165
+                        },
+                        {
+                           "name":"Back Office",
+                           "size":1.4161
+                        },
+                        {
+                           "name":"Solicitud de tornaguías",
+                           "size":8.33
+                        },
+                        {
+                           "name":"Costeos",
+                           "size":4.165
+                        },
+                        {
+                           "name":"Planeación de Puertos",
+                           "size":1.666
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Transporte",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Carga de citas de monitoring envase nuevo",
+                           "size":3.2487
+                        },
+                        {
+                           "name":"Macro envío de correos y robot de análisis. Envase nuevo y bote",
+                           "size":2.6656
+                        },
+                        {
+                           "name":"Macro de vaciado de datos empaque",
+                           "size":1.0829
+                        },
+                        {
+                           "name":"Liquidación para folios de empaque",
+                           "size":3.4986
+                        },
+                        {
+                           "name":"Robot para subir facturas. Canal Moderno Retail",
+                           "size":0.49147
+                        },
+                        {
+                           "name":"Revisión de vacantes Logística",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"OTC",
+         "children":[
+            {
+               "name":"Canal Moderno",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Complementos de pago(10 Manpower*)",
+                           "size":1
+                        },
+                        {
+                           "name":"Carga y descarga de portales",
+                           "size":22.9075
+                        },
+                        {
+                           "name":"Validación de evidencia OTC(Gestión de cambios)",
+                           "size":22.9075
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Cuentas por cobrar",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Proceso de Facturación y Cuentas por Cobrar",
+                           "size":91.63
+                        },
+                        {
+                           "name":"Manual Payments - MEX Arqueos",
+                           "size":22.9075
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"OTC",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"EC OTC",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Promociones",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Pricing Dealing",
+                           "size":22.9075
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"PBS",
+         "children":[
+            {
+               "name":"Accounting COPEC(Pagos)",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Calcular y procesar proviciones",
+                           "size":1.73541667
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Atracción y Talento",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Reclutamiento - Carga y descarga COPEC",
+                           "size":15.6604
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Beneficios",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Reestructura PBS",
+                           "size":41.65
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Employee record(COPEC)",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Cargo novedades Colombia",
+                           "size":1.785
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Nómina COPEC",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Proceso recibos timbrados",
+                           "size":1
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Pagos S.S COPEC",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Mejora ejecución & compensación",
+                           "size":2.008125
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Payroll",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Revisión proceso de tiempos Línea de Servicio",
+                           "size":1
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Payroll Ecuador",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Macro para Cálculo de Finiquitos",
+                           "size":2.57585417
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Tiempos",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Gestión de tiempos Colombia",
+                           "size":4.5815
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"PTP",
+         "children":[
+            {
+               "name":"Digitalización",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Reingeniería de minibot digitalización de facturas",
+                           "size":33.32
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Pagos",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Reestructura PTP",
+                           "size":33.32
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"PTP",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Posición Director PTP",
+                           "size":8.33
+                        },
+                        {
+                           "name":"PTP Queries Resolution",
+                           "size":8.33
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"TAX",
+         "children":[
+            {
+               "name":"Control Interno",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Revisión de proceso Control Interno",
+                           "size":16.66
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Impuestos Directos",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Medios magnéticos - Iniciativas Proceso",
+                           "size":1.4994
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Impuestos Especiales",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Precios de transferencias",
+                           "size":6.7473
+                        },
+                        {
+                           "name":"Archivo de expedientes Comext",
+                           "size":12.495
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Impuestos Indirectos",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Amarres de proveedores / compañías indigo",
+                           "size":33.32
+                        },
+                        {
+                           "name":"Automation Impuestos indirectos",
+                           "size":12.1618
+                        }
+                     ]
+                  }
+               ]
+            }
+
+         ]
+      },
+      {
+         "name":"TCT",
+         "children":[
+            {
+               "name":"Transport Control Tower",
+               "children":[
+                  {
+                     "name":"-",
+                     "children":[
+                        {
+                           "name":"Sinergia Ruteo",
+                           "size":16.66
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
